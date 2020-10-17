@@ -1,6 +1,6 @@
-Nama	: Ahmad Zaky
-Track	: Fullstack Mobile Developer
-Batch	: 17 - 1
+Nama	: Ahmad Zaky  
+Track	: Fullstack Mobile Developer  
+Batch	: 17 - 1  
 
 # Teori
 1.	Library adalah blok-blok kode yang telah disediakan yang dapat digunakan lagi sesuai keinginan programmer yang memiliki fungsi-fungsi tertentu. Framework adalah kumpulan dari beberapa Library.
